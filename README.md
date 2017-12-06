@@ -12,5 +12,6 @@
 
 ## git
 
-### 最初のコミット
-git commit --allow-empty -m "initial commit"
+### 最初のコミット  
+`git commit --allow-empty -m "initial commit"`
+
