@@ -6,4 +6,5 @@
 
 
 ## oF
-#### [.gitignore](http://tapioca.hatenablog.jp/entry/2017/02/18/171531)
+#### [.gitignore(1)](https://github.com/openframeworks/openFrameworks/blob/master/scripts/templates/gitignore/.gitignore)
+#### [.gitignore(2)](http://tapioca.hatenablog.jp/entry/2017/02/18/171531)
