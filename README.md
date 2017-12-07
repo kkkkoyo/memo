@@ -2,7 +2,7 @@
 
 
 ## Unity
-#### [.gitignore](https://qiita.com/nariya/items/97afba6b7b448920cdf0)
+#### [.gitignore](https://github.com/github/gitignore/blob/master/Unity.gitignore)
 https://www.slideshare.net/KeizoNagamine/uguirecttransform
 
 ## oF
