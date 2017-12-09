@@ -19,3 +19,9 @@ https://www.slideshare.net/KeizoNagamine/uguirecttransform
 ## Markdown  
 
 #### [Markdown記法一覧](https://qiita.com/oreo/items/82183bfbaac69971917f)
+
+## ラズパイ  
+
+https://www.1ft-seabass.jp/memo/2015/05/15/raspberry-pi-dhclient-refresh-wlan/  
+https://qiita.com/ikai/items/62e49385a1e3e7c953ad  
+https://qiita.com/kotauchisunsun/items/d0b0e0792939a53d558b
