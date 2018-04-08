@@ -3,6 +3,7 @@
 
 ## Unity
 #### [.gitignore](https://github.com/github/gitignore/blob/master/Unity.gitignore)
+#### [json](https://qiita.com/eielh/items/e259f9d5e34dc0033e61)
 https://www.slideshare.net/KeizoNagamine/uguirecttransform
 
 ## oF
