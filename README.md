@@ -31,3 +31,5 @@ git clone で`Could not resolve proxy: http` のときは,  `git config --globa
 
 ## swift
 #### https://qiita.com/ika_tarou/items/b3458fea814fd379bb85
+#### https://qiita.com/akatsuki174/items/11e740410177242b710d
+#### http://blog.livedoor.jp/sasata299/archives/52029262.html
