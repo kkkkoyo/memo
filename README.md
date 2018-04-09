@@ -28,3 +28,6 @@ https://qiita.com/ikai/items/62e49385a1e3e7c953ad
 https://qiita.com/kotauchisunsun/items/d0b0e0792939a53d558b
 
 git clone で`Could not resolve proxy: http` のときは,  `git config --global --unset http.proxy`
+
+## swift
+#### https://qiita.com/ika_tarou/items/b3458fea814fd379bb85
